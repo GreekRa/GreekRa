@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 [![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
+![pic](https://giphy.com/gifs/UqxVRm1IaaIGk)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreekRa&show_icons=true&bg_color=00000000)
 
@@ -28,5 +29,4 @@ Here are some ideas to get you started:
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-<iframe src="https://giphy.com/embed/UqxVRm1IaaIGk" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UqxVRm1IaaIGk">via GIPHY</a></p>
 
