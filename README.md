@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-Check out my animation [here](https://greekra.github.io/GreekRa/1.html).
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,7 +18,8 @@ Here are some ideas to get you started:
 ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 [![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
-![pic](https://giphy.com/gifs/UqxVRm1IaaIGk)
+![picvi](https://media1.giphy.com/media/UqxVRm1IaaIGk/giphy.gif?cid=ecf05e478hnvgx25l42am3axts7pfrxejgp1zumgg8uv1bs0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreekRa&show_icons=true&bg_color=00000000)
 
